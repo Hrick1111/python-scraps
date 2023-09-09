@@ -10,7 +10,7 @@ window_height = 600
 
 window = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("Snake Game")
-game_over = False
+game_over = Fal
 snake_body =[]
 
 score = 0
