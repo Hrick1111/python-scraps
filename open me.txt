@@ -1,0 +1,58 @@
+hackerrank leetcode problem solves
+c++ good practice
+codechef weekly competitions
+
+udemy course buy and complete atleast two projects
+practice code everyday atleast 2 problems per day and sometimes 6
+F college
+
+things to do before 5th sem
+get good at graphs and dsa and dp
+practice dsa every weekend
+
+
+16.05.23
+complete revision nfa to dfa full and mealy moore machines evening
+complete propositional logic and theory of numbers in the afternoon
+complete shortest path daa nd greedy night
+start architechture in the morning
+
+17.05.23
+
+complete nfa dfa mealy moore machine night
+greedy algo and masters theorem evening
+architechture pipelining full morning
+maths theroy of numbers and counting techniques afternoon
+
+18.05.23
+
+complete mealy moore and pda evening
+complete daa shortest paths in morning
+complete maths till prop logic everything rest day
+if time left study pipelining and reservation table
+
+
+19th May Complete Automata and Mathematics 
+20th May entire day CA
+::::::Pipelining Cache VLIW Flynns and Hazards
+21st May entire day DAA complete
+::::::Shortes Paths And Sortings and Masters and Asymptotic theory full
+
+22nd May
+cache complete and vliw revise 
+automata and daa knapsack
+
+23rd May 
+morning DAA and afternoon maths
+evening printouts and complete writing architecture and automata
+
+26th May
+automata full complete and rest architecture
+
+27th may 
+DAA complete and rest leftovers
+
+
+
+port 5432
+8420454888 pass sqlpostgre
